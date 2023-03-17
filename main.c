@@ -11,4 +11,5 @@ int main() {
     scanf ("%lf*f,%lf",&a,&b);
     printf("%f %f\n",a,b);
     printf("%f %f\n",a,b);
+    printf("!!!");
 }
