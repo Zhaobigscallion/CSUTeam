@@ -12,4 +12,5 @@ int main() {
     printf("%f %f\n",a,b);
     printf("%f %f\n",a,b);
     printf("!!!");
+    printf("!!!");
 }
