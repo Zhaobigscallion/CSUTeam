@@ -9,5 +9,6 @@
 int main() {
     double a = 0,b = 0;
     scanf ("%lf*f,%lf",&a,&b);
-    printf("%f %f",a,b);
+    printf("%f %f\n",a,b);
+    printf("%f %f\n",a,b);
 }
