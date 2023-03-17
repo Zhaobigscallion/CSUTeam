@@ -8,14 +8,9 @@
 
 int main() {
     double a = 0,b = 0;
-    scanf ("%lf*f,%lf",&a,&b);
     printf("%f %f\n",a,b);
     printf("%f %f\n",a,b);
     printf("!!!");
     printf("!!!");
-    //111111111111
-    //master 代码冲突
-    //hot-fix 代码冲突
-    //pull 拉取
-    //pull 再来！
+    //保持干净整洁
 }
