@@ -13,6 +13,4 @@ struct man{
     char *name;
 };
 
-
-
 #endif //DRAWCARDS_H

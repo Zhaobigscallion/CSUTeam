@@ -18,4 +18,5 @@ char RoleNames[ROLE_NUMBER][10] = {"A1", "B2", "C3", "D4"};
 
 
 
+
 #endif //COMMON_H
