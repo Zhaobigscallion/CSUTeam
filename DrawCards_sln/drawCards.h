@@ -14,4 +14,5 @@ struct man{
 };
 
 
+
 #endif //DRAWCARDS_H
